@@ -1,9 +1,9 @@
 # ANNE - THE DEV BLOGS
  ## Allen Amaya
-## Screenshot
- ![Description](file:///home/amaya/Downloads/Group%201.png)
-
  
+
+ ![Group 1](https://github.com/allenamaya/ANN--TASK-MANAGER/assets/126647363/996e1d83-721f-438a-891e-ce2c303dbae4)
+
  ## Table of Content
  - [Description](#description)
  - [Features](#features)
